@@ -153,8 +153,8 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     marginBottom: 10,
   },
-  label: { color: "#ccc", fontSize: 14 },
-  value: { color: "#fff", fontWeight: "600", fontSize: 14 },
+  label: { color: "#888", fontSize: 14 },
+  value: { color: "#ff6b2f", fontWeight: "600", fontSize: 14 },
   qrContainer: {
     alignItems: "center",
     marginTop: 16,
